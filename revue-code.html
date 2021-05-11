@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>reveal.js</title>
+
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css">
+    <link rel="stylesheet" href="dist/theme/black.css" id="theme">
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+
+        <!-- *** ACCUEIL *** -->
+        <section>
+            <img src="https://seleniumjavadotcom.files.wordpress.com/2018/09/code-review.jpg"
+                 alt="reveal.js logo" style="height: 360px; margin: 0 auto 4rem auto; background: transparent;"
+                 class="demo-logo"/>
+            <h3>Faire une bonne revue de code</h3>
+            <p>Les bonnes pratiques</p>
+            <p style="color: green">
+                <small>Par David RION</small>
+            </p>
+        </section>
+        <!-- *** DEFINITION *** -->
+        <section data-markdown="./revue-code/definition.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** OBJECTIF *** -->
+        <section data-markdown="./revue-code/objectifs.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** BONNES PRATIQUES *** -->
+        <section data-markdown="./revue-code/bonnes-pratiques.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** PRATIQUE *** -->
+        <section data-markdown="./revue-code/pratique.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** FONCTIONS *** -->
+        <section data-markdown="./kotlin/fonctions.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** CLASSES *** -->
+        <section data-markdown="./kotlin/classes.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** HERITAGES *** -->
+        <section data-markdown="./kotlin/heritages.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** FONCTIONS 2 *** -->
+        <section data-markdown="./kotlin/fonction2.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** EXTENSIONS *** -->
+        <section data-markdown="./kotlin/extensions.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** INTEROPERABILITE *** -->
+        <section data-markdown="./kotlin/interoperabilite.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+    </div>
+
+</div>
+
+<script src="plugin/markdown/markdown.js"></script>
+<script>
+    Reveal.initialize({
+        plugins: [RevealMarkdown]
+    });
+</script>
+<script src="dist/reveal.js"></script>
+<script src="plugin/notes/notes.js"></script>
+<script src="plugin/markdown/markdown.js"></script>
+<script src="plugin/highlight/highlight.js"></script>
+<script>
+    // More info about initialization & config:
+    // - https://revealjs.com/initialization/
+    // - https://revealjs.com/config/
+    Reveal.initialize({
+        hash: true,
+
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+    });
+</script>
+</body>
+</html>
