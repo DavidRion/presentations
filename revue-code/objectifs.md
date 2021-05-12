@@ -6,13 +6,13 @@
 * Moins de bugs dans le code <!-- .element: class="fragment" -->
 * Meilleure communication dans l'équipe <!-- .element: class="fragment" -->
 * Formation des nouveaux arrivants et des juniors <!-- .element: class="fragment" -->
+* Prise de connaissance des changements effectués <!-- .element: class="fragment" -->
 
 #### Avantages indirects
 * Cycle de développement/test plus court <!-- .element: class="fragment" -->
 * Cout du bug moins cher <!-- .element: class="fragment" -->
 * Clients satisfaits <!-- .element: class="fragment" -->
-* Code plus maintenable <!-- .element: class="fragment" -->
-* Meilleure architecture du code <!-- .element: class="fragment" -->
+* Maintenabilité et meilleure architecture du code <!-- .element: class="fragment" -->
 * Éviter des 🔪 meurtres 🔪 entre équipiers :D <!-- .element: class="fragment" -->
 
 ### Objectifs

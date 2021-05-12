@@ -6,6 +6,9 @@
 * Révisé
 
 #### En tant que demandeur
+<div>
+    <img style="vertical-align: middle;" class="fragment" width="150" height="150" src="revue-code/assets/baby_yoda.png">
+</div>
 <div style="display: inline">
     <div style="width:50%; display: inline-block; float:left;">
         <p class="fragment" align="left">
@@ -37,13 +40,13 @@
     </div>
 </div>
 <!-- .element: style="font-size:70%;" -->
-<img style="vertical-align: left;" class="fragment" width="200" height="200" src="revue-code/assets/baby_yoda.png">
 
 > Une revue de 100 lignes est faite en 15 minutes, une revue de 1000 lignes est faite en 5 minutes
 >
 >> `Maitre Yoda`
 
 #### En tant que réviseur
+<img style="vertical-align: middle;" class="fragment" width="150" height="150" src="revue-code/assets/yoda.png">
 <div style="display: inline">
     <div style="width:50%; display: inline-block; float:left;">
         <p class="fragment" align="left">
@@ -67,12 +70,8 @@
             <span align="left" style="color: green">Hésiter à commenter tu ne feras pas</span>
         </p>
         <p class="fragment" align="left">
-            <span align="left" style="color: green">Bienveillant tu seras</span>
-        </p>
-        <p class="fragment" align="left">
             <span align="left" style="color: green">Needs work tu mettras</span>
         </p>
     </div>
 </div>
 <!-- .element: style="font-size:70%;" -->
-<img style="vertical-align: middle;" class="fragment" width="200" height="200" src="revue-code/assets/yoda.png">
