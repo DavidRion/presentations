@@ -37,7 +37,7 @@
     </div>
 </div>
 <!-- .element: style="font-size:70%;" -->
-<img style="vertical-align: left;" width="200" height="200" src="revue-code/assets/baby_yoda.png">
+<img style="vertical-align: left;" class="fragment" width="200" height="200" src="revue-code/assets/baby_yoda.png">
 
 > Une revue de 100 lignes est faite en 15 minutes, une revue de 1000 lignes est faite en 5 minutes
 >
@@ -75,4 +75,4 @@
     </div>
 </div>
 <!-- .element: style="font-size:70%;" -->
-<img style="vertical-align: middle;" width="200" height="200" src="revue-code/assets/yoda.png">
+<img style="vertical-align: middle;" class="fragment" width="200" height="200" src="revue-code/assets/yoda.png">

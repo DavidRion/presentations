@@ -13,7 +13,7 @@
 * Clients satisfaits <!-- .element: class="fragment" -->
 * Code plus maintenable <!-- .element: class="fragment" -->
 * Meilleure architecture du code <!-- .element: class="fragment" -->
-* Éviter des meurtes entre équipiers :D <!-- .element: class="fragment" -->
+* Éviter des 🔪 meurtres 🔪 entre équipiers :D <!-- .element: class="fragment" -->
 
 ### Objectifs
 ![classe](https://flylib.com/books/4/223/1/html/2/images/0672327988/graphics/01fig02.gif)
