@@ -2,8 +2,7 @@
 ![bonnes pratiques](https://images.cdn3.buscalibre.com/fit-in/360x360/10/fb/10fb170d7732b7dca25ebb81ded2572d.jpg)
 
 #### Les 2 côtés de la revue de code
-* Réviseur
-* Révisé
+Réviseur ⚡ Révisé <!-- .element: class="fragment" -->
 
 #### En tant que demandeur
 <div>
