@@ -89,7 +89,7 @@ Si il y a incompréhension, ne pas hésiter à s'appeler ;)<!-- .element: style=
 
 | Grosse PR      | Petite PR   |
 | -------------- | ----------- |
-| ❌ Louper des erreurs                      | ✅ Révision facilitée et + de chance de passer ;)      |
+| ❌ Louper des erreurs                      | ✅ Révision facilitée et + de chance de passer ;)         |
 | ❌ Focaliser sur forme plutôt que fond     | ✅ Courte donc claire et facile à comprendre              |
 | ❌ Prend beaucoup de temps à réviser       | ✅ Valider petit à petit direction est prise              |
 | ❌ Mauvaise direction & jeter travail à 🗑️ | ✅ Présenter du code *** NPF ***                          |
