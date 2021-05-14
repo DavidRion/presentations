@@ -19,7 +19,7 @@
             <span align="left" style="color: green">⚡ Petites Pull Request</span>
         </p>
         <p class="fragment" align="left">
-            <span align="left" style="color: green">⚡ Tests : TDD, paramétrés</span>
+            <span align="left" style="color: green">⚡ Tests : Roulés avant PR, paramétrés</span>
         </p>
         <p class="fragment" align="left">
             <span align="left" style="color: green">⚡ PR & Commits : No JIRA + Descriptif</span>
