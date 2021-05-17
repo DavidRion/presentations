@@ -47,7 +47,7 @@
 
 
 #### Conseil 
-<img style="float: right;"  width="200" height="200" src="revue-code/assets/mr_net.png">
+<img style="float: right;"  width="200" height="200" src="/revue-code/assets/mr_net.png">
 
 Proposer une Pull Request que quand le code peut être mis tel quel en PROD.<!-- .element: style="font-size:80%; color:orange" -->
 
@@ -65,18 +65,18 @@ Si ce n'est pas le cas, alors améliorer. <!-- .element: style="font-size:80%; c
 
 
 #### Reconnaissance fait du bien au Moral
-![compliment1](revue-code/assets/compliment3.PNG) <!-- .element height="70%" width="70%" -->
-![compliment2](revue-code/assets/compliment.PNG) <!-- .element height="70%" width="70%" -->
-![compliment3](revue-code/assets/compliment2.PNG) <!-- .element height="70%" width="70%" -->
+![compliment1](/revue-code/assets/compliment3.PNG) <!-- .element height="70%" width="70%" -->
+![compliment2](/revue-code/assets/compliment.PNG) <!-- .element height="70%" width="70%" -->
+![compliment3](/revue-code/assets/compliment2.PNG) <!-- .element height="70%" width="70%" -->
 
 
 #### Questions et Réponses
-![question](revue-code/assets/questions.PNG) <!-- .element height="70%" width="70%" -->
-![reponse](revue-code/assets/repondre.PNG) <!-- .element height="70%" width="70%" -->
+![question](/revue-code/assets/questions.PNG) <!-- .element height="70%" width="70%" -->
+![reponse](/revue-code/assets/repondre.PNG) <!-- .element height="70%" width="70%" -->
 
 
 #### Conseil 
-<img style="float: right;"  width="200" height="200" src="revue-code/assets/master_shifu.png">
+<img style="float: right;"  width="200" height="200" src="/revue-code/assets/master_shifu.png">
 
 La revue n'est pas une critique personnelle.<!-- .element: style="font-size:80%; color:orange" -->
 
@@ -99,7 +99,7 @@ Si il y a incompréhension, ne pas hésiter à s'appeler ;)<!-- .element: style=
 
 
 #### Conseil 
-<img style="float: right;"  width="200" height="200" src="revue-code/assets/ant_man.png">
+<img style="float: right;"  width="200" height="200" src="/revue-code/assets/ant_man.png">
 
 Pousser son code dès qu'on a quelque chose de petit et stable pour montrer qu'on prend la bonne direction.<!-- .element: style="color:orange" -->
 
@@ -113,12 +113,12 @@ Pousser son code dès qu'on a quelque chose de petit et stable pour montrer qu'o
 
 
 #### Single Responsability
-![single_responsability](revue-code/assets/single_responsability.PNG) <!-- .element height="70%" width="70%" -->
-![single_responsability_ko](revue-code/assets/single_responsability_ko.PNG) <!-- .element height="70%" width="70%" -->
+![single_responsability](/revue-code/assets/single_responsability.PNG) <!-- .element height="70%" width="70%" -->
+![single_responsability_ko](/revue-code/assets/single_responsability_ko.PNG) <!-- .element height="70%" width="70%" -->
 
 
 #### Conseil 
-<img style="float: right;"  width="200" height="200" src="revue-code/assets/spiderman.png">
+<img style="float: right;"  width="200" height="200" src="/revue-code/assets/spiderman.png">
 
 Faire autant de Pull Request que de sujets abordés.<!-- .element: style="color:orange" -->
 
@@ -140,7 +140,7 @@ Les branches sur Git sont vos amies ;)<!-- .element: style="color:orange" -->
 
 
 #### Conseil 
-<img style="float: right;"  width="200" height="200" src="revue-code/assets/spiderman.png">
+<img style="float: right;"  width="200" height="200" src="/revue-code/assets/spiderman.png">
 
 Clarté, Clarté, Clarté.<!-- .element: style="color:orange" -->
 

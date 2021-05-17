@@ -3,7 +3,7 @@
 
 #### Paramètres normés
 Pratique si beaucoup de paramètres et paramètre avec default value
-![named params](kotlin/assets/named_params.png)
+![named params](/kotlin/assets/named_params.png)
   
 Adieu la surcharge de méthodes comme en Java !
 
@@ -11,7 +11,7 @@ Adieu la surcharge de méthodes comme en Java !
 >Utiliser @JvmOverload devant la méthode pour utiliser la surcharge de méthodes pour Java pour éviter une explosion du compilateur
 
 #### Fonctions imbriquées
-![fonction imbriquée](kotlin/assets/fonction_imbriquee.png)
+![fonction imbriquée](/kotlin/assets/fonction_imbriquee.png)
 
 #### Top-level functions
 Méthodes utilisables dans l'ensemble de l'application (cf Utils en Java)

@@ -6,7 +6,7 @@ Réviseur ⚡ Révisé <!-- .element: class="fragment" -->
 
 #### En tant que demandeur
 <div>
-    <img style="vertical-align: middle;" class="fragment" width="150" height="150" src="revue-code/assets/baby_yoda.png">
+    <img style="vertical-align: middle;" class="fragment" width="150" height="150" src="/revue-code/assets/baby_yoda.png">
 </div>
 <div style="display: inline">
     <div style="width:50%; display: inline-block; float:left;">
@@ -45,7 +45,7 @@ Réviseur ⚡ Révisé <!-- .element: class="fragment" -->
 >> `Maitre Yoda`
 
 #### En tant que réviseur
-<img style="vertical-align: middle;" class="fragment" width="150" height="150" src="revue-code/assets/yoda.png">
+<img style="vertical-align: middle;" class="fragment" width="150" height="150" src="/revue-code/assets/yoda.png">
 <div style="display: inline">
     <div style="width:50%; display: inline-block; float:left;">
         <p class="fragment" align="left">

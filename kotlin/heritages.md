@@ -46,7 +46,7 @@ public class Developpeur extends {
 <!-- .element: style="font-size:40%;" -->
 
 #### En kotlin : pas de open = final
-![erreur heritage](kotlin/assets/open_heritage.png)
+![erreur heritage](/kotlin/assets/open_heritage.png)
 
 #### Modificateurs d'accès
 |Attribut | Classe/Méthode/Propriété |
@@ -57,12 +57,12 @@ public class Developpeur extends {
 |override | Redéfinir un élément d’une classe parente (ou d’une interface).|
 
 #### Retour sur les constructeurs secondaires
-![second multiples](kotlin/assets/second_constructeur.png)
+![second multiples](/kotlin/assets/second_constructeur.png)
   
 <3 Interopérabilité entre classe parente Java possédant plusieurs constructeurs, et classe enfant Kotlin
 
 Mais on a plus élégant...avec une approche évolutive
-![constructeurs multiples](kotlin/assets/autres_constructeur.png)
+![constructeurs multiples](/kotlin/assets/autres_constructeur.png)
 
 #### data class pour modèles de données
 |||
@@ -78,7 +78,7 @@ Mais on a plus élégant...avec une approche évolutive
 <!-- .element: class="fragment" -->
 
 #### data class exemples
-![data class](kotlin/assets/data_class.png)
+![data class](/kotlin/assets/data_class.png)
 
 #### companion objects : Adieu les static !
 // TODO

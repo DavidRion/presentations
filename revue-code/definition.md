@@ -5,7 +5,7 @@
 #### Ce que je vois vois et ne veux plus voir
 [![code_review](https://img.youtube.com/vi/rR4n-0KYeKQ/0.jpg)](https://www.youtube.com/watch?v=rR4n-0KYeKQ)
 
-#### La revue au 1000 questions..
+#### La revue au 1000 questions
 ![sherlock](https://media.giphy.com/media/3o6ZtksqDdL9K3u4rC/giphy.gif)
 
 #### On cherche quoi Sherlock ❓❓❓ (1/2)
