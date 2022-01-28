@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>reveal.js</title>
+
+    <link rel="stylesheet" href="../dist/reset.css">
+    <link rel="stylesheet" href="../dist/reveal.css">
+    <link rel="stylesheet" href="../dist/theme/black.css" id="theme">
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="../plugin/highlight/monokai.css" id="highlight-theme">
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+
+        <!-- *** ACCUEIL *** -->
+        <section>
+            <img src="/developpeurs-lectures/assets/vieux_livres.jpeg"
+                 alt="reveal.js logo" style="height: 360px; margin: 0 auto 4rem auto; background: transparent;"
+                 class="demo-logo"/>
+            <h3>Lectures de developpeurs</h3>
+            <p>Les classiques</p>
+            <p style="color: green">
+                <small>Par David RION</small>
+            </p>
+        </section>
+        <!-- *** INTRODUCTION *** -->
+        <section data-markdown="/developpeurs-lectures/1-introduction.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** LIVRES : CODE *** -->
+        <section data-markdown="/developpeurs-lectures/livres-code.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** LIVRES : GESTION PROJET *** -->
+        <section data-markdown="/developpeurs-lectures/livres-gestion-projet.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** LIVRES : AUTOUR DU DEV *** -->
+        <section data-markdown="/developpeurs-lectures/livres-autour-du-dev.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+        <!-- *** THANKS *** -->
+        <section data-markdown="/shared/thanks.md" data-separator="^\r?\n\r?\n\r?\n"
+                 data-separator-vertical="^\r?\n\r?\n"></section>
+    </div>
+
+</div>
+
+<script src="../plugin/markdown/markdown.js"></script>
+<script>
+    Reveal.initialize({
+        plugins: [RevealMarkdown]
+    });
+</script>
+<script src="../dist/reveal.js"></script>
+<script src="../plugin/notes/notes.js"></script>
+<script src="../plugin/markdown/markdown.js"></script>
+<script src="../plugin/highlight/highlight.js"></script>
+<script>
+    // More info about initialization & config:
+    // - https://revealjs.com/initialization/
+    // - https://revealjs.com/config/
+    Reveal.initialize({
+        hash: true,
+
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+    });
+</script>
+</body>
+</html>
